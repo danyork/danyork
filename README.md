@@ -1,6 +1,6 @@
-### Hi there 👋
-I am Dan York. I work for the [Internet Society](https://www.internetsociety.org) although most of my Github usage is for personal projects. 
-🌎 - I am based in Vermont, USA, on US Eastern Time (UTC-4 or -5)
+### 👋 Hi, I'm Dan York!
+- I work for the [Internet Society](https://www.internetsociety.org) although most of my Github usage is for personal projects. 
+- 🌎 I am based in Vermont, USA, on US Eastern Time (UTC-4 or -5)
 <!--
 **danyork/danyork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
